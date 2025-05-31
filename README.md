@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/97c4951a-924c-49b3-8d75-3c632c2faa06" alt="Dijkstra Algoritması" width="80%" style="margin-bottom: 20px; display: block; margin-top: 20px;">
+</div>
 Bu depo, bir graf üzerindeki düğümler arasında Dijkstra algoritmasını kullanarak en kısa yolları hesaplayan ve bu yolları görselleştiren bir Python uygulamasıdır. Kullanıcı, belirli bir kaynak ve hedef düğümü girerek bu iki düğüm arasındaki en kısa yolu ve kaynak düğümden diğer tüm düğümlere olan en kısa yolları öğrenebilir. Uygulama ayrıca bu yolları grafiksel olarak da görselleştirmektedir.
 
 Projede kullanılan graph.txt dosyası, grafın düğümleri arasındaki bağlantıları ve bu bağlantıların ağırlıklarını içerir. Her satırda iki düğüm ve aralarındaki bağlantının ağırlığı bulunur:
